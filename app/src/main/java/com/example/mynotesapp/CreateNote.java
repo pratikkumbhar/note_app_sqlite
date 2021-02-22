@@ -19,7 +19,7 @@ EditText title,note;
 ImageView saveButton,deletebutton;
 DatabaseHelper databaseHelper;
     Holder holder;
-    int tata;
+    
     int position;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
