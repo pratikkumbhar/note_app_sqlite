@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FAF7FF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="titlebackground"></color>
+    <color name="serachbar_backround">#BABABA</color>
+    <color name="createnotetitle_background">#DCDCDC</color>
+    <color name="createnote_notee_background">#ECECEC</color>
+    <color name="delete_color">#D1ABAB</color>
+    <color name="delete_background">#C6C4C4</color>
+
+</resources>
